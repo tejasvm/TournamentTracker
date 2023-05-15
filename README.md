@@ -1,4 +1,4 @@
-# TournamentTracker
+# Tournament Tracker
 
 ## Description
 TournamentTracker is a robust and intuitive application built using C# to manage and track various sports tournaments. This project incorporates the .NET Framework to manage data, implement business logic, and provide a user-friendly interface.
